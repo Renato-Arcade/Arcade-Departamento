@@ -98,3 +98,5 @@ Citizen.CreateThread(function()
 		Citizen.Wait(1000)
 	end
 end)
+
+-- Teste
